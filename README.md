@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?monkey2169=thundevistan)](https://solved.ac/monkey2169/)
+
 <!--
 **kyucho1009/kyucho1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
